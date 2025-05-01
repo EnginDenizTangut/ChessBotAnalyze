@@ -72,6 +72,10 @@ Custom YOLO weights (chess.pt) must be trained or downloaded separately.
 
 You can update the color and annotation style in the process_image function if needed.
 
+chess.pt file link on the below:
+```bash
+https://drive.google.com/file/d/1W9XWxPIeRi4sRhqVonQykOZHRGJnq6nR/view?usp=sharing
+```
 📝 License
 
 This project is open-source and available under the MIT License.
